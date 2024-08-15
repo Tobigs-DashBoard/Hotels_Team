@@ -1,0 +1,362 @@
+[
+    {
+        "name": "서울신라호텔",
+        "Url": "https://www.yeogi.com/domestic-accommodations/70163",
+        "star_rating": "블랙 · 5성급 · 호텔",
+        "price": "1박 기준 711,500원 - 여기어때 특가",
+        "Address": "서울 중구",
+        "Rating": 4.9,
+        "review_cnt": 455
+    },
+    {
+        "name": "길동 MARI-마리",
+        "Url": "https://www.yeogi.com/domestic-accommodations/895",
+        "star_rating": "모텔",
+        "price": "1박 기준 85,000원 - 여기어때 특가",
+        "Address": "서울 강동구",
+        "Rating": 4.65,
+        "review_cnt": 2141
+    },
+    {
+        "name": "스위스 그랜드 호텔",
+        "Url": "https://www.yeogi.com/domestic-accommodations/12830",
+        "star_rating": "4성급 · 호텔",
+        "price": "1박 기준 329,000원 - 여기어때 특가",
+        "Address": "서울 서대문구",
+        "Rating": 4.55,
+        "review_cnt": 849
+    },
+    {
+        "name": "영등포 H-AVENUE",
+        "Url": "https://www.yeogi.com/domestic-accommodations/844",
+        "star_rating": "모텔",
+        "price": "1박 기준 135,100원 - 여기어때 특가",
+        "Address": "서울 영등포구",
+        "Rating": 4.85,
+        "review_cnt": 1448
+    },
+    {
+        "name": "종로 K-World-종로 3가",
+        "Url": "https://www.yeogi.com/domestic-accommodations/65523",
+        "star_rating": "모텔",
+        "price": "1박 기준 97,000원 - 여기어때 특가",
+        "Address": "서울 종로구",
+        "Rating": 4.75,
+        "review_cnt": 4684
+    },
+    {
+        "name": "사당 호텔 카일",
+        "Url": "https://www.yeogi.com/domestic-accommodations/73221",
+        "star_rating": "모텔",
+        "price": "1박 기준 100,000원 - 여기어때 특가",
+        "Address": "서울 관악구",
+        "Rating": 4.75,
+        "review_cnt": 1902
+    },
+    {
+        "name": "신촌 라뉘호텔",
+        "Url": "https://www.yeogi.com/domestic-accommodations/779",
+        "star_rating": "모텔",
+        "price": "1박 기준 95,100원 - 여기어때 특가",
+        "Address": "서울 마포구",
+        "Rating": 4.35,
+        "review_cnt": 3792
+    },
+    {
+        "name": "종로 부티크 호텔K",
+        "Url": "https://www.yeogi.com/domestic-accommodations/1742",
+        "star_rating": "모텔",
+        "price": "1박 기준 105,000원 - 여기어때 특가",
+        "Address": "서울 종로구",
+        "Rating": 4.65,
+        "review_cnt": 8096
+    },
+    {
+        "name": "신라스테이 구로",
+        "Url": "https://www.yeogi.com/domestic-accommodations/6798",
+        "star_rating": "3성급 · 호텔",
+        "price": "1박 기준 135,000원 - 여기어때 특가",
+        "Address": "서울 동작구",
+        "Rating": 4.65,
+        "review_cnt": 5243
+    },
+    {
+        "name": "신촌 바론드 호텔",
+        "Url": "https://www.yeogi.com/domestic-accommodations/1777",
+        "star_rating": "모텔",
+        "price": "1박 기준 125,000원 - 여기어때 특가",
+        "Address": "서울 서대문구",
+        "Rating": 4.6,
+        "review_cnt": 667
+    },
+    {
+        "name": "은평 씨에스에비뉴 호텔",
+        "Url": "https://www.yeogi.com/domestic-accommodations/47247",
+        "star_rating": "모텔",
+        "price": "1박 기준 93,000원 - 여기어때 특가",
+        "Address": "서울 은평구",
+        "Rating": 4.7,
+        "review_cnt": 2896
+    },
+    {
+        "name": "이비스 스타일 앰배서더 서울 용산",
+        "Url": "https://www.yeogi.com/domestic-accommodations/50686",
+        "star_rating": "4성급 · 호텔",
+        "price": "1박 기준 261,500원 - 여기어때 특가",
+        "Address": "서울 용산구",
+        "Rating": 4.65,
+        "review_cnt": 1893
+    },
+    {
+        "name": "영등포 Blvd 호텔오라",
+        "Url": "https://www.yeogi.com/domestic-accommodations/4060",
+        "star_rating": "모텔",
+        "price": "1박 기준 115,000원 - 여기어때 특가",
+        "Address": "서울 영등포구",
+        "Rating": 4.6,
+        "review_cnt": 7839
+    },
+    {
+        "name": "잠실 NU호텔-종합운동장점",
+        "Url": "https://www.yeogi.com/domestic-accommodations/50263",
+        "star_rating": "모텔",
+        "price": "1박 기준 180,000원 - 여기어때 특가",
+        "Address": "서울 송파구",
+        "Rating": 4.5,
+        "review_cnt": 3387
+    },
+    {
+        "name": "신촌 가을",
+        "Url": "https://www.yeogi.com/domestic-accommodations/781",
+        "star_rating": "모텔",
+        "price": "1박 기준 103,000원 - 여기어때 특가",
+        "Address": "서울 서대문구",
+        "Rating": 4.5,
+        "review_cnt": 6263
+    },
+    {
+        "name": "성신여대 호텔 우디",
+        "Url": "https://www.yeogi.com/domestic-accommodations/46038",
+        "star_rating": "모텔",
+        "price": "1박 기준 125,000원 - 여기어때 특가",
+        "Address": "서울 성북구",
+        "Rating": 4.85,
+        "review_cnt": 297
+    },
+    {
+        "name": "왕십리 포레스타",
+        "Url": "https://www.yeogi.com/domestic-accommodations/5666",
+        "star_rating": "모텔",
+        "price": "1박 기준 95,000원 - 여기어때 특가",
+        "Address": "서울 성동구",
+        "Rating": 4.55,
+        "review_cnt": 5487
+    },
+    {
+        "name": "건대 더 디자이너스 프리미어-화양동",
+        "Url": "https://www.yeogi.com/domestic-accommodations/49461",
+        "star_rating": "모텔",
+        "price": "1박 기준 137,000원 - 여기어때 특가",
+        "Address": "서울 광진구",
+        "Rating": 4.65,
+        "review_cnt": 4430
+    },
+    {
+        "name": "화곡 VOLL",
+        "Url": "https://www.yeogi.com/domestic-accommodations/735",
+        "star_rating": "모텔",
+        "price": "1박 기준 92,000원 - 여기어때 특가",
+        "Address": "서울 강서구",
+        "Rating": 4.65,
+        "review_cnt": 3029
+    },
+    {
+        "name": "★당일특가★ 앰배서더 서울 풀만 호텔",
+        "Url": "https://www.yeogi.com/domestic-accommodations/69966",
+        "star_rating": "블랙 · 특1급 · 호텔",
+        "price": "1박 기준 0원 - 여기어때 특가",
+        "Address": "서울 중구",
+        "Rating": 4.75,
+        "review_cnt": 917
+    },
+    {
+        "name": "종로 브라운도트 호텔",
+        "Url": "https://www.yeogi.com/domestic-accommodations/5020",
+        "star_rating": "모텔",
+        "price": "1박 기준 125,000원 - 여기어때 특가",
+        "Address": "서울 종로구",
+        "Rating": 4.7,
+        "review_cnt": 2751
+    },
+    {
+        "name": "역삼 리치웰",
+        "Url": "https://www.yeogi.com/domestic-accommodations/3805",
+        "star_rating": "모텔",
+        "price": "1박 기준 118,800원 - 여기어때 특가",
+        "Address": "서울 강남구",
+        "Rating": 4.65,
+        "review_cnt": 4422
+    },
+    {
+        "name": "역삼 컬리넌",
+        "Url": "https://www.yeogi.com/domestic-accommodations/2084",
+        "star_rating": "모텔",
+        "price": "1박 기준 118,800원 - 여기어때 특가",
+        "Address": "서울 강남구",
+        "Rating": 4.55,
+        "review_cnt": 1564
+    },
+    {
+        "name": "역삼 인트로호텔",
+        "Url": "https://www.yeogi.com/domestic-accommodations/72748",
+        "star_rating": "모텔",
+        "price": "1박 기준 115,000원 - 여기어때 특가",
+        "Address": "서울 강남구",
+        "Rating": 4.95,
+        "review_cnt": 1665
+    },
+    {
+        "name": "강남 멜리샤호텔",
+        "Url": "https://www.yeogi.com/domestic-accommodations/63624",
+        "star_rating": "모텔",
+        "price": "1박 기준 130,000원 - 여기어때 특가",
+        "Address": "서울 강남구",
+        "Rating": 4.75,
+        "review_cnt": 2563
+    },
+    {
+        "name": "성신여대역 더월-THE WALL",
+        "Url": "https://www.yeogi.com/domestic-accommodations/1142",
+        "star_rating": "모텔",
+        "price": "1박 기준 115,000원 - 여기어때 특가",
+        "Address": "서울 성북구",
+        "Rating": 4.8,
+        "review_cnt": 2236
+    },
+    {
+        "name": "명동 밀리오레호텔",
+        "Url": "https://www.yeogi.com/domestic-accommodations/68065",
+        "star_rating": "모텔",
+        "price": "1박 기준 127,000원 - 여기어때 특가",
+        "Address": "서울 중구",
+        "Rating": 4.45,
+        "review_cnt": 4041
+    },
+    {
+        "name": "잠실 Stay hotel",
+        "Url": "https://www.yeogi.com/domestic-accommodations/1929",
+        "star_rating": "모텔",
+        "price": "1박 기준 110,000원 - 여기어때 특가",
+        "Address": "서울 송파구",
+        "Rating": 4.65,
+        "review_cnt": 2076
+    },
+    {
+        "name": "강남 캠퍼스",
+        "Url": "https://www.yeogi.com/domestic-accommodations/4988",
+        "star_rating": "모텔",
+        "price": "1박 기준 113,000원 - 여기어때 특가",
+        "Address": "서울 강남구",
+        "Rating": 4.6,
+        "review_cnt": 3311
+    },
+    {
+        "name": "신촌 호텔 루씨르",
+        "Url": "https://www.yeogi.com/domestic-accommodations/1697",
+        "star_rating": "모텔",
+        "price": "1박 기준 113,000원 - 여기어때 특가",
+        "Address": "서울 서대문구",
+        "Rating": 4.65,
+        "review_cnt": 3724
+    },
+    {
+        "name": "건대 호텔 K World",
+        "Url": "https://www.yeogi.com/domestic-accommodations/51604",
+        "star_rating": "모텔",
+        "price": "1박 기준 145,000원 - 여기어때 특가",
+        "Address": "서울 광진구",
+        "Rating": 4.75,
+        "review_cnt": 4086
+    },
+    {
+        "name": "잠실 루이체",
+        "Url": "https://www.yeogi.com/domestic-accommodations/3205",
+        "star_rating": "모텔",
+        "price": "1박 기준 123,000원 - 여기어때 특가",
+        "Address": "서울 송파구",
+        "Rating": 4.7,
+        "review_cnt": 2542
+    },
+    {
+        "name": "페어필드 바이 메리어트 서울",
+        "Url": "https://www.yeogi.com/domestic-accommodations/51149",
+        "star_rating": "특급 · 호텔",
+        "price": "1박 기준 210,000원 - 여기어때 특가",
+        "Address": "서울 영등포구",
+        "Rating": 4.6,
+        "review_cnt": 5503
+    },
+    {
+        "name": "종로 시네마",
+        "Url": "https://www.yeogi.com/domestic-accommodations/917",
+        "star_rating": "모텔",
+        "price": "1박 기준 95,000원 - 여기어때 특가",
+        "Address": "서울 종로구",
+        "Rating": 4.65,
+        "review_cnt": 3150
+    },
+    {
+        "name": "종로 THE MAY HOTEL",
+        "Url": "https://www.yeogi.com/domestic-accommodations/64334",
+        "star_rating": "모텔",
+        "price": "1박 기준 133,000원 - 여기어때 특가",
+        "Address": "서울 종로구",
+        "Rating": 4.75,
+        "review_cnt": 2935
+    },
+    {
+        "name": "독산 호텔 인 카페",
+        "Url": "https://www.yeogi.com/domestic-accommodations/64487",
+        "star_rating": "모텔",
+        "price": "1박 기준 97,000원 - 여기어때 특가",
+        "Address": "서울 금천구",
+        "Rating": 4.75,
+        "review_cnt": 3775
+    },
+    {
+        "name": "영등포 더 문",
+        "Url": "https://www.yeogi.com/domestic-accommodations/5193",
+        "star_rating": "모텔",
+        "price": "1박 기준 89,000원 - 여기어때 특가",
+        "Address": "서울 영등포구",
+        "Rating": 4.6,
+        "review_cnt": 1097
+    },
+    {
+        "name": "신촌 림",
+        "Url": "https://www.yeogi.com/domestic-accommodations/3834",
+        "star_rating": "모텔",
+        "price": "1박 기준 105,000원 - 여기어때 특가",
+        "Address": "서울 서대문구",
+        "Rating": 4.5,
+        "review_cnt": 4481
+    },
+    {
+        "name": "잠실 라비호텔",
+        "Url": "https://www.yeogi.com/domestic-accommodations/67954",
+        "star_rating": "모텔",
+        "price": "1박 기준 133,000원 - 여기어때 특가",
+        "Address": "서울 송파구",
+        "Rating": 4.8,
+        "review_cnt": 1613
+    },
+    {
+        "name": "사당 필름 37.2",
+        "Url": "https://www.yeogi.com/domestic-accommodations/57893",
+        "star_rating": "모텔",
+        "price": "1박 기준 100,000원 - 여기어때 특가",
+        "Address": "서울 관악구",
+        "Rating": 4.55,
+        "review_cnt": 1649
+    }
+]
