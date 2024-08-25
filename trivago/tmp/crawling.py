@@ -7,7 +7,7 @@ from selenium.common.exceptions import NoSuchElementException, ElementClickInter
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-import time, utils
+import time, trivago.tmp.utils as utils
 
 
 
