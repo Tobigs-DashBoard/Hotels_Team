@@ -127,7 +127,7 @@ def get_payload(id:int, arrival:str, departure:str, adults:int, rooms:int,childr
         "extensions": {
             "persistedQuery": {
                 "version": 1,
-                "sha256Hash": "845ba83784595010f4be0db3906b840a925e45c0078bb55d675c6aa824b5ce1c"
+                "sha256Hash": "235ba65e9902837b78ec55f2d75db7110dac6f6dc07d13cb267ec5c9030c66d7"
             }
         }
     }
@@ -142,30 +142,40 @@ def get_headers(id:int, arrival:str, departure:str, rooms:int, adults:int, child
 
     headers = {
         # 바꿀 필요 X
-        #"accept": "multipart/mixed, application/graphql-response+json, application/graphql+json, application/json",
-        #"accept-encoding": "gzip, deflate, br, zstd",
+        "accept": "multipart/mixed, application/graphql-response+json, application/graphql+json, application/json",
+        "accept-encoding": "gzip, deflate, br, zstd",
         "accept-language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
         "apollographql-client-name": "hs-web-app",
-        "apollographql-client-version": "ff962f1b",
+        "apollographql-client-version": "6e0320ef",
         #"content-length": "473",
         "content-type": "application/json",
-        #"origin": "https://www.trivago.co.kr",
-        #"priority": "u=1, i",
+        "origin": "https://www.trivago.co.kr",
+        "priority": "u=1, i",
         "referer": f"https://www.trivago.co.kr/ko-KR/srl?search=200-{str(id)};dr-{arrival}-{departure};rc-{str(rooms)}-{str(adults)}{str_children}",
         #"sec-ch-ua": "\"Not)A;Brand\";v=\"99\", \"Google Chrome\";v=\"127\", \"Chromium\";v=\"127\"",
-        #"sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-mobile": "?0",
         #"sec-ch-ua-platform": "\"macOS\"",
-        #"sec-fetch-dest": "empty",
-        #"sec-fetch-mode": "cors",
-        #"sec-fetch-site": "same-origin",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-origin",
         "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
-        #"x-trv-app-id": "HS_WEB_APP_WARP",
+        "x-trv-app-id": "HS_WEB_APP_WARP",
         #"x-trv-connection-id": "ShANUXGpqB9RIh8E2whHHme3Gks",
         #"x-trv-cst": "46164,48405,51886,52345,53192,70064,70089,70187,70218,70290,70222,70332,70418,70421,70411,70410,70407,70481,70443,70505-1,70525,70473,70579,70504,70536,70620-2,70598,70645,70586,70649,70709,70727,70787-1,70827,70703,70831,70766,70805,70871,70780,70885,70830,70928-4,70810,70940,70886,70941,70919,70834,70706,70806,70738,70951,70934-2,70907,71010,70933,70992,70953,71007,71013,71011,71035,70931,71033,70916,71044,71043,71019,70850,71042,71067,71018",
-        #"x-trv-language": "ko-KR",
-        #"x-trv-platform": "kr",
+        "x-trv-language": "ko-KR",
+        "x-trv-platform": "kr",
         #"x-trv-sequence-id": "52",
-        "x-trv-tid": "29aaf309c268ace93fd7293d53"
+        "x-trv-tid": "77216fbb4ee64d4bb5a975a19e"
     }
 
     return headers
+
+
+def convert_breakfast(data):
+    if data == []:
+        return False
+    elif data[0]['enrichedPriceAttributesTranslated'][0]['translatedName']['value'][-3]== " ":
+        return True
+    else:
+        return False
+    
