@@ -73,11 +73,5 @@ if __name__ == "__main__":
     cur.close()
     conn.close()
     #숙소명
-    print(response_data['data']['accommodationSearchResponse']['accommodations'][0]['accommodationDetails']['translatedName']['value'])
-    # 가격
-    print(response_data['data']['accommodationSearchResponse']['accommodations'][0]['deals']['best']['pricePerNight']['amount'])
-    # 위치
-    print(response_data['data']['accommodationSearchResponse']['accommodations'][0]['distanceLabel']['value'])
-    
 
     
