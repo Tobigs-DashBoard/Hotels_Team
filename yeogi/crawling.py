@@ -21,12 +21,14 @@ from datetime import datetime, timedelta
 """2. chrome 옵션 설정"""
 
 chrome_options = Options()
-# chrome_options.add_argument("--headless")  # Headless 모드 설정 (브라우저 UI 없이 실행)
+chrome_options.add_argument("--headless")  # Headless 모드 설정 (브라우저 UI 없이 실행)
 chrome_options.add_argument("--no-sandbox")  # 샌드박스 모드 비활성화
-# chrome_options.add_argument("--disable-dev-shm-usage")  # /dev/shm 사용 비활성화
+chrome_options.add_argument("--disable-dev-shm-usage")  # /dev/shm 사용 비활성화
 chrome_options.add_argument("--disable-gpu")  # GPU 비활성화
 chrome_options.add_argument("--window-size=1920x1080")  # 윈도우 크기 설정
 chrome_options.add_argument('--disable-extensions')  # 브라우저 확장 기능 비활성화
+chrome_options.add_argument('--no-sandbox')  # 샌드박스 비활성화
+chrome_options.add_argument('--remote-debugging-port=9222')  # 디버깅 포트 설정
 chrome_options.add_argument("--disable-cache")
 chrome_options.add_argument("--proxy-server='direct://'")
 chrome_options.add_argument("--proxy-bypass-list=*")
